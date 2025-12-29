@@ -1,7 +1,27 @@
 {
-    "version":  1,
-    "generated_at":  134114905309064969,
-    "items":  [
-
-              ]
+  "version": 1,
+  "generated_at": 1767000000000,
+  "items": [
+    {
+      "id": "user_UZBHBQXqXsd9w7Ycplt1hp8n9Xw1",
+      "type": "user_profile",
+      "uid": "UZBHBQXqXsd9w7Ycplt1hp8n9Xw1",
+      "timestamp": 1767000000000,
+      "payload_preview": "{\"uid\":\"UZBHBQXqXsd9w7Ycplt1hp8n9Xw1\",\"name\":\"الادمن Dollar\",\"email\":\"\",\"phone\":\"\",\"address\":\"\",\"balance\":1000000,\"createdAt\":1767000000000,\"hasInstallments\":false,\"referralCode\":\"\",\"referredBy\":\"\",\"profileImage\":\"\",\"isAgent\":true,\"whatsapp\":\"\",\"instagram\":\"\",\"telegram\":\"\",\"messenger\":\"\"}"
+    },
+    {
+      "id": "config_minWithdrawalAmount",
+      "type": "config_value",
+      "uid": "",
+      "timestamp": 1767000000000,
+      "payload_preview": "{\"key\":\"minWithdrawalAmount\",\"value\":10000}"
+    },
+    {
+      "id": "config_bannerMessage",
+      "type": "config_value",
+      "uid": "",
+      "timestamp": 1767000000000,
+      "payload_preview": "{\"key\":\"bannerMessage\",\"value\":\"أهلاً بك في تطبيق DOLLAR\"}"
+    }
+  ]
 }
